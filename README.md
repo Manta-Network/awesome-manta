@@ -19,7 +19,7 @@ A curated list of manta resources.
 - [Community Collator Program](https://docs.manta.network/docs/collator/CommunityCollatorProgram)
 - [Manta Network Community Forum](https://forum.manta.network/c/manta-network/13)
 - [Manta Wiki](https://docs.manta.network/docs/Introduction)
-- [Ambassador Program](https://mantalorians.vercel.app/)
+- [Ambassador Program](https://ambassadors.manta.network)
 
 ## Manta Project
 - [Github Organization](https://github.com/Manta-Network)
