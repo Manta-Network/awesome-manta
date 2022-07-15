@@ -28,12 +28,19 @@ A curated list of manta resources.
 - [Manta Protocol Specifications](https://github.com/Manta-Network/spec)
 - [Manta Dapp](https://github.com/Manta-Network/manta-front-end)
 - [Manta Signer](https://github.com/Manta-Network/manta-signer)
-- [Manta Telemetry](https://telemetry.manta.systems/#/0x4ac80c99289841dd946ef92765bf659a307d39189b3ce374a92b5f0415ee17a1)
+- [Download Manta Signer](https://signer.manta.network/)
 - [sparta](https://sparta.calamari.systems/)
+- [Calamari Block Explorer](https://calamari.subscan.io/)
+- [Dolphin Block Explorer](https://dolphin.subscan.io/)
 
-## Public Nodes Calamari Mainnet
+## Public Nodes from Calamari Mainnet
 - [calamari system](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fws.calamari.systems%2F#/explorer)
 - [onfinality](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fcalamari.api.onfinality.io%2Fpublic-ws#/explorer)
 
+## Public Services from Manta
+- [Manta Telemetry](https://telemetry.manta.systems/)
+- [The Status of Manta' Nodes](https://status.manta.network/)
+
 ## Misc
 - [Manta's Hiring](https://jobs.lever.co/MantaNetwork)
+- [Projects from Polkadot Ecosystem](https://polkaproject.com/#/)
