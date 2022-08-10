@@ -32,6 +32,11 @@ A curated list of manta resources.
 - [sparta](https://sparta.calamari.systems/)
 - [Calamari Block Explorer](https://calamari.subscan.io/)
 - [Dolphin Block Explorer](https://dolphin.subscan.io/)
+- The address prefix of Manta(SS58)
+    Network | Prefix
+    ---|---
+    Calamari | 78
+    Manta | 79
 
 ## Public Nodes from Calamari Mainnet
 - [calamari system](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fws.calamari.systems%2F#/explorer)
